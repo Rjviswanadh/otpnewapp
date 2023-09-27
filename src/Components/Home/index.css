@@ -1,0 +1,22 @@
+.logo-image {
+  margin-top: 30vh;
+}
+.mobile-screen {
+  /*  margin-top: 20vh; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input-border {
+  display: flex;
+}
+.input-field {
+  margin-right: 10px;
+}
+button {
+  background-color: orange;
+  border: none;
+  padding: 8px;
+  border-radius: 5px;
+}

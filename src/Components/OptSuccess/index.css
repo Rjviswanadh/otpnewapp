@@ -1,0 +1,17 @@
+.otp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.resend {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.resend a {
+  margin-left: 4px;
+}
+.otp-number {
+  text-align: center;
+}
